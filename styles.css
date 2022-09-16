@@ -1,0 +1,18 @@
+body{
+    background-color: blanchedalmond;
+}
+
+h1{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
+img{
+    position: relative; left: 700px;
+    width: 500px;
+    height: auto;
+}
+
